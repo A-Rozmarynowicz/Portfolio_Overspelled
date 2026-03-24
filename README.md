@@ -11,11 +11,13 @@ The game has it's webpage on the largest video game platform in the world, Steam
 ## Relevance to []'s studentship
 I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that are of great value in CERN's laboratories:
 
- - Patience: building complex systems piece by piece, fixing bugs that I made a year earlier, or reworking large parts of the project have definitely put my patience to a test. I think it is necessary when working on a very demanding engineering project in Geneva.
+ - **Patience**: building complex systems piece by piece, fixing bugs that I made a year earlier, or reworking large parts of the project have definitely put my patience to a test. I think it is necessary when working on a very demanding engineering project in Geneva.
 
- - Perserveance: staying focused on a single project for two years, when commercial success is rather unlikely and the only reward is my own satisfaction strengthened my determination to a great extend. I am now ready to work on a project that requires a non-stop focus and full commitment all throughout the process.
+ - **Perserveance**: staying focused on a single task for two years, when commercial success is rather unlikely and the only reward is my own satisfaction have strengthened my determination to a great extend. I am now ready to be part of a project that requires a non-stop focus and full commitment all throughout the process.
 
- - Creativity:
+ - **Creativity**: creating a video game means constantly coming up with new ideas, not only on what to create but also how to implement it. Only a very small part of these concepts ever make it to the final product, hence the creative skills need to be trained thouroughly. I believe that this trait will be usefull when solving problems at the forefront of scientific discovery.
+
+-
 
 
 
