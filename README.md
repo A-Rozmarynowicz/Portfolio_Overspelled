@@ -8,6 +8,12 @@ The game has it's webpage on the largest video game platform in the world, Steam
 
 "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try!
 
+## Relevance to []'s studentship
+I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that are of great value in CERN's laboratories:
+
+ - Patience: 
+
+
  designed, created and maintained by me with a help of game testers, artists, musicians and a lawyer.
 
 Steam page: [Overspelled](https://store.steampowered.com/app/3425570/Overspelled/)
