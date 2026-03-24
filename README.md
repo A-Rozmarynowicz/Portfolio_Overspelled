@@ -36,9 +36,10 @@ Game engine:
 Tools:
 - git
 - Steamworks:
-    - branches, cloud integration, demos, betas, and other systems.
-
+    - cloud integration, branches, demos, betas, and other systems.
 
 
 ## Future
-The
+The game's release is planned for after I graduate with my Bachelor's degree, and before I start my Master's program.
+
+The launch of the demo was a huge milestone in the process, and it showed that many of the game's systems are ready for the final product.
