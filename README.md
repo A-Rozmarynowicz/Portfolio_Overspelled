@@ -1,7 +1,7 @@
 ![Overspelled](Images/overspelled%20%20LIBRARY%20HEADER-min.jpg)
 
 ## About the project
-"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of currently over 1 400 hours of programming, drawing, researching, testing, brainstorming, failing and starting over, to name a few.
+"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of currently two years, or over 1 400 hours of programming, drawing, researching, testing, brainstorming, failing and starting over, to name a few.
 
 The game has it's webpage on the largest video game platform in the world, Steam, and it can be viewed here:
 [https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)
@@ -11,7 +11,12 @@ The game has it's webpage on the largest video game platform in the world, Steam
 ## Relevance to []'s studentship
 I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that are of great value in CERN's laboratories:
 
- - Patience: 
+ - Patience: building complex systems piece by piece, fixing bugs that I made a year earlier, or reworking large parts of the project have definitely put my patience to a test. I think it is necessary when working on a very demanding engineering project in Geneva.
+
+ - Perserveance: staying focused on a single project for two years, when commercial success is rather unlikely and the only reward is my own satisfaction strengthened my determination to a great extend. I am now ready to work on a project that requires a non-stop focus and full commitment all throughout the process.
+
+ - Creativity:
+
 
 
  designed, created and maintained by me with a help of game testers, artists, musicians and a lawyer.
