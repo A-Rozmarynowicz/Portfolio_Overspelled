@@ -1,3 +1,6 @@
+![IT](https://img.shields.io/badge/IT-purple)
+![IT](https://img.shields.io/badge/Interdisciplinary-darkred)
+
 ![Overspelled](Images/overspelled%20%20LIBRARY%20HEADER-min.jpg)
 
 ## About the project
@@ -38,6 +41,12 @@ Tools:
 - Steamworks:
     - cloud integration, branches, demos, betas, and other systems.
 
+Graphics and sound editing tools:
+- Aseprite
+- Audacity
+- OBS Studio
+- DaVinvi Resolve
+- GIMP
 
 ## Future
 The game's release is planned for after I graduate with my Bachelor's degree, and before I start my Master's program.
