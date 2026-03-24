@@ -8,8 +8,11 @@ The game has it's webpage on the largest video game platform in the world, Steam
 
 "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try!
 
+## Important note
+Absolutely no help of Generative Artificial Inteligence was used during the development, in particular coding and creating the art.
+
 ## Relevance to []'s studentship
-I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that are of great value in CERN's laboratories:
+I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that I am eager to demonstrate in CERN's laboratories:
 
 - **Teamwork**: throughout the journey I have collaborated with game testers, artists, musicians and a lawyer. At every point I needed to listen, explain, ask questions and brainstorm with talented people in a supportive setting. Being a good teamplayer will play a crucial role when working with professionals from all around the world.
 
@@ -22,4 +25,17 @@ I believe that the journey of progressing a project from the point where it was 
 - **Project Management**: developing, managing and maintaining a large programming project grants experience when it comes to careful design decisions and structuring a system. I learned that all minor faults and negligence in a project structure will cause trobles in the future, and I will pay great attention to details when working on a high-stakes project.
 
  - **Discipline**: pursuing a hobby while simultaneously engaging at a high level in a University, a students' association, and working overtime is a challenge on it's own. I needed to perform efficiently all the time, making sure I do not waste time on things like social media. I am eager to present my work discipline at a world-class institution, and perform at the highest level I can.
- 
+
+## Technologies used
+Programming language:
+- gdscript (very similar to Python)
+
+Game engine:
+- Godot
+
+Tools:
+- git
+- Steamworks: branches,
+
+## Future
+The
