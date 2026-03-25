@@ -12,7 +12,7 @@ The game has it's webpage on the largest video game platform in the world, Steam
 "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try!
 
 ## Important note
-Absolutely no help of Generative Artificial Inteligence was used during the development, in particular coding or creating the art.
+**No** help of Generative Artificial Inteligence was used during the development, in particular coding or creating the art.
 
 ## Relevance to []'s studentship
 I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that I am eager to demonstrate in CERN's laboratories:
@@ -31,7 +31,7 @@ I believe that the journey of progressing a project from the point where it was 
 
 ## Technologies used
 Programming language:
-- gdscript (very similar to Python)
+- GDScript (similar to Python)
 
 Game engine:
 - Godot
