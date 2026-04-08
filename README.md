@@ -11,7 +11,7 @@ The game has it's webpage on the largest video game platform in the world, Steam
 
 "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try!
 
-## Relevance to []'s studentship
+## Relevance to studentship at CERN
 I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that I am eager to demonstrate in CERN's laboratories:
 
 - **Teamwork**: throughout the journey I have collaborated with game testers, artists, musicians and a lawyer. At every point I needed to listen, explain, ask questions and brainstorm with talented people in a supportive setting. Being a good teamplayer will play a crucial role when working with professionals from all around the world.
