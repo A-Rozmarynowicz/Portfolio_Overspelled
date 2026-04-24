@@ -11,7 +11,15 @@ The game has it's webpage on the largest video game platform in the world, Steam
 
 "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try!
 
-## Relevance to studentship at CERN
+## Table of contents
+* [Relevance to the studentship at CERN](#relevance-to-the-studentship-at-cern)
+* [Why don't I share source files?](#why-dont-i-share-source-files)
+* [Technologies used](#technologies-used)
+* [Note](#note)
+* [Future](#future)
+* [See more](#see-more)
+
+## Relevance to the studentship at CERN
 I believe that the journey of progressing a project from the point where it was just a vague idea, to the point where it is accessible to people around the world has enabled me to develop skills and traits that I am eager to demonstrate in CERN's laboratories:
 
 - **Teamwork**: throughout the journey I have collaborated with game testers, artists, musicians and a lawyer. At every point I needed to listen, explain, ask questions and brainstorm with talented people in a supportive setting. Being a good teamplayer will play a crucial role when working with professionals from all around the world.
@@ -25,6 +33,9 @@ I believe that the journey of progressing a project from the point where it was 
 - **Project Management**: developing, managing and maintaining a large programming project grants experience when it comes to careful design decisions and structuring a system. I learned that all minor faults and negligence in a project structure will cause trobles in the future, and I will pay great attention to details when working on a high-stakes project.
 
  - **Discipline**: pursuing a hobby while simultaneously engaging at a high level in a University, a students' association, and working overtime is a challenge on it's own. I needed to perform efficiently all the time, making sure I do not waste time on things like social media. I am eager to present my work discipline at a world-class institution, and perform at the highest level I can.
+
+## Why don't I share source files?
+'Overspelled' is a commercial project, thus I don't share the files.
 
 ## Technologies used
 Programming language:
@@ -48,15 +59,10 @@ Graphics and sound editing tools:
 ## Note
 **No** help of Generative Artificial Inteligence was used during the development, in particular coding or creating the art.
 
-## Statistics
-- The Steam page has been visited 23 000 times.
-- The game has been wishlisted by 240 people.
-
 ## Future
 The game's release is planned for after I graduate with my Bachelor's degree, and before I start my Master's program.
 
 The launch of the demo was a huge milestone in the process, and it showed that many of the game's systems are ready for the final product.
-
 
 ## See more
 Apart from the [Steam page](https://store.steampowered.com/app/3425570/Overspelled/) you can also see the [announcement trailer](https://www.youtube.com/watch?v=TFXmWFC19yM) on Youtube.
