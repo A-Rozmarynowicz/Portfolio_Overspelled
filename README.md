@@ -2,8 +2,7 @@
 ![IT](https://img.shields.io/badge/Interdisciplinary-darkred)
 
 <p align="center">
-  <img src="Images/overspelled%20%20LIBRARY%20HEADER-min.jpg" alt="Overspelled" width="100%"><br>
-  <em>Puzzle box top view.</em>
+  <img src="Images/overspelled%20%20LIBRARY%20HEADER-min.jpg" alt="Overspelled" width="100%">
 </p>
 
 ## About the project
