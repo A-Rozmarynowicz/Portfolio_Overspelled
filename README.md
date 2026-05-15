@@ -1,13 +1,10 @@
 ![IT](https://img.shields.io/badge/IT-purple)
 ![IT](https://img.shields.io/badge/Interdisciplinary-darkred)
 
-![Overspelled](Images/overspelled%20%20LIBRARY%20HEADER-min.jpg)
-
 <p align="center">
   <img src="Images/overspelled%20%20LIBRARY%20HEADER-min.jpg" alt="Overspelled" width="100%"><br>
   <em>Puzzle box top view.</em>
 </p>
-
 
 ## About the project
 "Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of currently two years, or over 1 400 hours of programming, drawing, researching, testing, brainstorming, failing and starting over, to name a few.
