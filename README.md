@@ -13,6 +13,8 @@ The game has its webpage on the largest video game platform in the world, Steam,
 
 "Overspelled" demo will very soon be available for free.
 
+Development time: from 04.2024 to 07.2027 (expected).
+
 <!-- "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try! -->
 
 ## Table of contents
