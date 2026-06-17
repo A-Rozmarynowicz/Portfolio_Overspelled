@@ -6,7 +6,7 @@
 </p>
 
 ## About the project
-"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of two years, or over 1 400 hours of programming, drawing, researching, testing, brainstorming, failing, and starting over, to name a few.
+"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of two years, or over 1 500 hours of programming, drawing, researching, testing, brainstorming, failing, and starting over, to name a few.
 
 The game has its webpage on the largest video game platform in the world, Steam, and it can be viewed here:
 [https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)
