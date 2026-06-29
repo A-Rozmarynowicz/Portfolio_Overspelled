@@ -6,12 +6,14 @@
 </p>
 
 ## About the project
-"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of two years, or over 1 400 hours of programming, drawing, researching, testing, brainstorming, failing, and starting over, to name a few.
+"Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of two years, or over 1 500 hours of programming, drawing, researching, testing, brainstorming, failing, and starting over, to name a few.
 
 The game has its webpage on the largest video game platform in the world, Steam, and it can be viewed here:
 [https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)
 
 "Overspelled" demo will very soon be available for free.
+
+Development time: from 04.2024 to 07.2027 (expected).
 
 <!-- "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try! -->
 
