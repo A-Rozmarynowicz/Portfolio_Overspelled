@@ -12,9 +12,23 @@
 [https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)**
 
 
-Development time: from 04.2024 to 07.2027 (expected).
 
 <!-- "Overspelled" demo is currently available for free. To access it, please download the Steam desktop app and navigate to my game's webpage. I encourage you to give it a try! -->
+
+
+<p align="center">
+  <img src="Images/AncientRuins_SoulHarvestGlobalStun_16_10.jpg" alt="Overspelled" width="70%">
+</p>
+
+<p align="center">
+  <img src="Images/DarkCastle_MageBossv2_16_10.jpg" alt="Overspelled" width="70%">
+</p>
+
+<p align="center">
+  <img src="Images/Homev1_16_10.jpg" alt="Overspelled" width="70%">
+</p>
+
+Development time: from 04.2024 to 07.2027 (expected).
 
 ## Table of contents
 * [Relevance to professional work](#relevance-to-the-studentship-at-cern)
@@ -82,3 +96,7 @@ The launch of the demo was a huge milestone in the process, and it showed that m
 
 ## See more
 Apart from the [Steam page](https://store.steampowered.com/app/3425570/Overspelled/), you can also see the [announcement trailer](https://www.youtube.com/watch?v=TFXmWFC19yM) on YouTube.
+
+<p align="center">
+  <img src="Images/overspelled_LOGO_2.png" alt="Overspelled" width="100%">
+</p>
