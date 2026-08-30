@@ -8,10 +8,9 @@
 ## About the project
 "Overspelled" is a large-scale, interdisciplinary, hobby project. Though still under development, this commercial video game is a result of two years, or over 1 500 hours of programming, drawing, researching, testing, brainstorming, failing, and starting over, to name a few.
 
-The game has its webpage on the largest video game platform in the world, Steam, and it can be viewed here:
-[https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)
+**"Overspelled" demo is now available for free on Steam! You can view the store page and play the demo here:
+[https://store.steampowered.com/app/3425570/Overspelled/](https://store.steampowered.com/app/3425570/Overspelled/)**
 
-"Overspelled" demo will very soon be available for free.
 
 Development time: from 04.2024 to 07.2027 (expected).
 
@@ -35,8 +34,8 @@ I believe that the journey of progressing a project from the point where it was 
  - **Creativity**: making a video game means constantly coming up with new ideas, not only on what to create but also how to implement it. Only a very small part of these concepts ever make it to the final product, hence the creative skills need to be trained thouroughly.
   <!-- I believe that this trait will be useful when solving problems that require unique thinking. -->
 <!-- Tutaj -->
-
- - **Perservance**: staying focused on a single task for two years, when commercial success is rather unlikely, and the only reward is my own satisfaction has strengthened my determination to a great extent.
+<!--
+ - **Perservance**: staying focused on a single task for two years, when commercial success is rather unlikely, and the only reward is my own satisfaction has strengthened my determination to a great extent. -->
   <!-- I am now ready to be part of a project that requires a non-stop focus and full commitment all throughout the process. -->
 
  - **Patience**: building complex systems piece by piece, fixing bugs that I made a year earlier, or reworking large parts of the project have definitely put my patience to the test.
@@ -46,7 +45,7 @@ I believe that the journey of progressing a project from the point where it was 
 - **Project Management**: developing, managing, and maintaining a large programming project grants experience when it comes to careful design decisions and structuring a system.
 <!-- I learned that all minor faults and negligence in a project structure will cause trobles in the future, and I will pay great attention to details when working on a high-stakes project. -->
 
- - **Discipline**: pursuing a hobby while simultaneously engaging at a high level in a University, a students' association, and working overtime is a challenge on its own. I needed to perform all the time efficiently, making sure I do not waste time on things like social media.
+ <!-- - **Discipline**: pursuing a hobby while simultaneously engaging at a high level in a University, a students' association, and working overtime is a challenge on its own. I needed to perform all the time efficiently, making sure I do not waste time on things like social media. -->
  <!-- I am eager to present my work discipline at work, and perform at the highest level I can. -->
 <!-- Tutaj -->
 
