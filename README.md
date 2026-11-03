@@ -63,6 +63,10 @@ I believe that the journey of progressing a project from the point where it was 
  <!-- I am eager to present my work discipline at work, and perform at the highest level I can. -->
 <!-- Tutaj -->
 
+## Note
+No help of Generative Artificial Inteligence was used during the development, in particular, coding or creating the art.
+
+
 ## Why don't I share source files?
 'Overspelled' is a commercial project, thus I don't share the files.
 
@@ -84,9 +88,6 @@ Graphics and sound editing tools:
 - OBS Studio
 - DaVinci Resolve
 - GIMP
-
-## Note
-No help of Generative Artificial Inteligence was used during the development, in particular, coding or creating the art.
 
 ## Future
 The game's release is planned for after I graduate with my Bachelor's degree, and before I start my Master's program.
